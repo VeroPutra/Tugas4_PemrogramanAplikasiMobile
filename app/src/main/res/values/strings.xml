@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="subtitle">Track Your Health Journey</string>
+    <string name="enter_details">Enter Your Details</string>
+    <string name="weight_hint">Berat Badan (kg)</string>
+    <string name="height_hint">Tinggi Badan (cm)</string>
+    <string name="calculate">Calculate</string>
+    <string name="save_data">SIMPAN DATA</string>
+    <string name="calculate_bmi">HITUNG BMI</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="your_result">Your BMI Result</string>
+    <string name="bmi_index">BMI Index</string>
+    <string name="category">Category</string>
+    <string name="default_value">0.0</string>
+    <string name="default_category">-</string>
+
+    <!-- Calculate BMI Screen -->
+    <string name="calculate_bmi_title">Calculate BMI</string>
+    <string name="get_bmi_subtitle">Get your body mass index</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="height_label">Height (cm)</string>
+    <string name="weight_input_hint">Enter your weight</string>
+    <string name="height_input_hint">Enter your height</string>
+    <string name="calculate_now">Calculate Now</string>
+    <string name="your_result_label">Your Result</string>
+    <string name="bmi_category_label">BMI Category</string>
+    <string name="bmi_categories_title">BMI Categories</string>
+    <string name="bmi_categories_info">Underweight: BMI less than 18.5\nNormal: BMI 18.5 – 24.9\nOverweight: BMI 25 – 29.9\nObese: BMI 30 or greater</string>
+
+    <!-- Content Descriptions -->
+    <string name="app_title_desc">App Title</string>
+    <string name="input_weight_desc">Input berat badan</string>
+    <string name="input_height_desc">Input tinggi badan</string>
+    <string name="button_save_desc">Button simpan data</string>
+    <string name="button_calculate_desc">Button hitung BMI</string>
+    <string name="bmi_index_value_desc">BMI Index value</string>
+    <string name="bmi_category_desc">BMI Category</string>
+</resources>
